@@ -7,7 +7,7 @@ SeSAC_Math_Study 레포지토리는 AI 지식함량을 위한 수학 개념을 �
 ## 🛠️ Tech Stack
 
 |<center>VScode</center>|<center>Python</center>|
-|--|--|--|
+|--|--|
 |<p align="center"><img alt="vscode" src="./icons/VSCode-Light.svg" width="48"></p>|<p align="center"><img alt="html" src="./icons/Python-Dark.svg" width="48"></p>| 
 |<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
