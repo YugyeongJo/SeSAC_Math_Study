@@ -16,6 +16,10 @@ SeSAC_Math_Study 레포지토리는 AI 지식함량을 위한 수학 개념을 �
 ```plaintext
 SeSAC_Math_Study/
 ├── README.md 
+├── icons/
+│   └── Python-Dark.svg
+│   └── VSCode-Light.svg
+│   └── Google_Colaboratory_SVG_Logo.svg
 ├── docs/
 │   ├── angular_plot.ipynb
 │   ├── trigonometric functions.ipynb
