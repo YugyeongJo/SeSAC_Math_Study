@@ -6,10 +6,10 @@ SeSAC_Math_Study 레포지토리는 AI 지식함량을 위한 수학 개념을 �
 
 ## 🛠️ Tech Stack
 
-|<center>Colab</center>|<center>VScode</center>|<center>Python</center>|
+|<center>VScode</center>|<center>Python</center>|
 |--|--|--|
-|<p align="center"><img alt="Google Colab" src="icons\Google_Colaboratory_SVG_Logo.svg" width="85"></p>|<p align="center"><img alt="vscode" src="./icons/VSCode-Light.svg" width="48"></p>|<p align="center"><img alt="html" src="./icons/Python-Dark.svg" width="48"></p>| 
-|<img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">|<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
+|<p align="center"><img alt="vscode" src="./icons/VSCode-Light.svg" width="48"></p>|<p align="center"><img alt="html" src="./icons/Python-Dark.svg" width="48"></p>| 
+|<img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">|
 
 ## 📂 Directory Structure
 
@@ -19,7 +19,6 @@ SeSAC_Math_Study/
 ├── icons/
 │   └── Python-Dark.svg
 │   └── VSCode-Light.svg
-│   └── Google_Colaboratory_SVG_Logo.svg
 ├── docs/
 │   ├── angular_plot.ipynb
 │   ├── trigonometric functions.ipynb
