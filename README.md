@@ -4,7 +4,6 @@
 
 SeSAC_Math_Study 레포지토리는 AI 지식함량을 위한 수학 개념을 학습한 내용을 담고 있습니다.  
 
-
 ## 🛠️ Tech Stack
 
 |<center>VScode</center>|<center>Python</center>|
