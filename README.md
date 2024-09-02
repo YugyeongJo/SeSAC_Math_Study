@@ -42,6 +42,7 @@ SeSAC_Math_Study/
 |01|Visualization|[angular_plot](./docs/angular_plot.ipynb)|함수 그래프 시각화 실습||
 |02|Visualization|[trigonometric functions](./docs/trigonometric%20functions.ipynb)|삼각함수 그래프 시각화 실습||
 |03|||||
+|04|||||
 
 ## 📝참고자료
 |구분|링크|설명|비고|
